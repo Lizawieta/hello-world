@@ -1,2 +1,4 @@
 # hello-world
-My first repository for educational purpose.
+
+This is my first repository for educational purpose. I've started learning java script - my journey to the world of programming has just begun!
+
